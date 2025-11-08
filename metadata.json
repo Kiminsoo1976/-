@@ -1,0 +1,7 @@
+{
+  "name": "지오펜스 알리미",
+  "description": "사용자가 특정 지리적 영역에 들어가거나 나갈 때 알람을 울리고 캘린더 이벤트 알림을 생성하는 애플리케이션입니다. Google 지도 그라운딩을 사용하여 위치 정확도를 높입니다.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
